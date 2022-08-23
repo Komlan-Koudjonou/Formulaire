@@ -1,0 +1,11 @@
+.form-label {
+   font-weight: bold;
+}
+
+.container {
+    margin-top: 300px;
+    width: 800px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: antiquewhite;
+}
