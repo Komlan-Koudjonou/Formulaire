@@ -1,0 +1,8 @@
+.container{
+    margin: 0 auto;
+    background-color: burlywood;
+    height: 50px;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 25px;
+}
